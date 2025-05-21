@@ -1,28 +1,38 @@
-# Hi its me Junaid
+# 🚀 Junaid-18 Portfolio
 
-This is a personal portfolio website showcasing my skills and projects, built using HTML, CSS, and JavaScript.
+Welcome to my personal portfolio! Here you can find information about my skills and projects.
 
-## Sections
+## 💡 Skills
 
-- **Home:** Introduction and quick overview.
-- **About:** Brief about me.
-- **Skills:** Technologies and languages I know.
-- **Projects:** Descriptions and links to my main projects.
-- **Contact:** How to reach me.
+- 💻 **Programming Languages:** C, C++, C#
+- ⚙️ **Assembly Language**
+- 📚 **Data Structures & Algorithms (DSA)**
+- 🐍 **Python**
+- 🌐 **Web Technologies:** HTML, Tailwind CSS, JavaScript
 
-## How to Use
+## 📂 Projects
 
-1. Open `index.html` in your browser to view the portfolio.
-2. Edit any section (About, Skills, Projects, Contact) directly in the HTML file to update content.
+### 💊 Pharmacy Management System  
+A system for managing pharmacy operations efficiently.  
+🔗 [GitHub Repo](https://github.com/junaid-18/pharmacy-management) *(replace with your actual repo link)*
 
-## Customization
+### 💡 Automatic Streetlight Project (DLD)  
+Automates streetlight control based on environmental conditions.  
+🔗 [GitHub Repo](https://github.com/junaid-18/automatic-streetlight) *(replace with your actual repo link)*
 
-- Add new projects or skills in their respective sections.
-- Update styles in `styles.css` for a personalized look.
+### 🎓 Online Course Learning Platform  
+A platform for creating and accessing online courses.  
+🔗 [GitHub Repo](https://github.com/junaid-18/online-course-platform) *(replace with your actual repo link)*
 
-## License
+## 📬 Contact
 
-This project is open source and free to use.
+- ✉️ Email: junaidrashid76755@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/junaid-18](https://linkedin.com/in/junaid-18) *(replace with your actual LinkedIn)*
+
+---
+
+*This portfolio is a work in progress. Feel free to explore my projects and connect with me!*
+
 
 
 
