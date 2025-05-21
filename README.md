@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi its me Junaid
 
-<!--
-**Junaid-18/junaid-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is a personal portfolio website showcasing my skills and projects, built using HTML, CSS, and JavaScript.
 
-Here are some ideas to get you started:
+## Sections
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Home:** Introduction and quick overview.
+- **About:** Brief about me.
+- **Skills:** Technologies and languages I know.
+- **Projects:** Descriptions and links to my main projects.
+- **Contact:** How to reach me.
+
+## How to Use
+
+1. Open `index.html` in your browser to view the portfolio.
+2. Edit any section (About, Skills, Projects, Contact) directly in the HTML file to update content.
+
+## Customization
+
+- Add new projects or skills in their respective sections.
+- Update styles in `styles.css` for a personalized look.
+
+## License
+
+This project is open source and free to use.
+
+
+
+
