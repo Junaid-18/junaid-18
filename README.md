@@ -14,20 +14,24 @@ Welcome to my personal portfolio! Here you can find information about my skills 
 
 ### 💊 Pharmacy Management System  
 A system for managing pharmacy operations efficiently.  
-🔗 [GitHub Repo](https://github.com/junaid-18/pharmacy-management) 
+
 
 ### 💡 Automatic Streetlight Project (DLD)  
 Automates streetlight control based on environmental conditions.  
-🔗 [GitHub Repo](https://github.com/junaid-18/automatic-streetlight) 
+
 
 ### 🎓 Online Course Learning Platform  
 A platform for creating and accessing online courses.  
-🔗 [GitHub Repo](https://github.com/junaid-18/online-course-platform) 
+🔗 [GitHub Repo](https://github.com/Junaid-18/Braniacs-Mernstack.git)
+### AI Powered REstaurant SUggestor
+Here our system will suggest its user about the restaurant they wanna explore, this project uses langchain and fast apis
+🔗 [GitHub Repo](https://github.com/Junaid-18/Ai-Project-.git)
 
 ## 📬 Contact
 
 - ✉️ Email: junaidrashid76755@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/junaid-18](https://linkedin.com/in/junaid-18) 
+- 🔗
+- 📸 Instagram: [junaidchaudry5](https://www.instagram.com/junaidchaudry5?igsh=MTl3Z2xsem16N29obQ==) 
 
 ---
 
